@@ -1,6 +1,6 @@
 package Blatt1;
 
-public class FixCommissionEmployee extends Employee {
+public class FixCommissionEmployee extends Employee{
 
 
     private double additionalComission;
